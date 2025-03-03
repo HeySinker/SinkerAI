@@ -1,33 +1,9 @@
 <html>
     <body>
-        <style>
-               .custom-file-container {
-       position: fixed;
-       top: 20px;
-       right: 20px;
-       display: flex;
-       flex-direction: column; /* ترتيب العناصر عمودياً */
-       gap: 10px; /* مسافة بين الأيقونات */
-       z-index: 50;
-   }
-               .custom-file-label {
-       background-color:white;
-       color: white;
-       cursor: pointer;
-       border-radius: 50%;
-       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-       display: flex;
-       justify-content: center;
-       align-items: center;
-       width: 50px;
-       height: 50px;
-   }
-   
-</style>
         <head>
                 <link href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism-tomorrow.css" rel="stylesheet" />
                 <script src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/prism.js"></script>
-        </head>
+    </head>
        <div class="custom-file-container">
         <a class='custom-file-label' href='#' target='_blank'>
             <img width="50" height="50" src="https://img.icons8.com/nolan/50/solana.png" alt="solana" />
