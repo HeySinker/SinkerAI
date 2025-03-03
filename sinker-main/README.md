@@ -10,8 +10,7 @@
        gap: 10px; /* مسافة بين الأيقونات */
        z-index: 50;
    }
-
-   .custom-file-label {
+               .custom-file-label {
        background-color:white;
        color: white;
        cursor: pointer;
@@ -23,6 +22,7 @@
        width: 50px;
        height: 50px;
    }
+   
 </style>
         <head>
                 <link href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism-tomorrow.css" rel="stylesheet" />
