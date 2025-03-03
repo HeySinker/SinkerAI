@@ -1,7 +1,7 @@
 <html>
     <body>
        <div class="custom-file-container">
-        <a class='custom-file-label' href='#' target='_blank'>
+        <a class='custom-file-label' href='https://solscan.io/token/4qHy9wSU6eSbbNHNopxYpkSZFjLeh1sk5A18KHZhstx7' target='_blank'>
             <img width="50" height="50" src="https://img.icons8.com/nolan/50/solana.png" alt="solana" />
         </a>
         <a class='custom-file-label' href='https://x.com/SinkerJS' target='_blank'>
