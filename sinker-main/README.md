@@ -1,9 +1,5 @@
 <html>
     <body>
-        <head>
-                <link href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism-tomorrow.css" rel="stylesheet" />
-                <script src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/prism.js"></script>
-    </head>
        <div class="custom-file-container">
         <a class='custom-file-label' href='#' target='_blank'>
             <img width="50" height="50" src="https://img.icons8.com/nolan/50/solana.png" alt="solana" />
